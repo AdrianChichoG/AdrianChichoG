@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AdrianChichoG
 - 👀 I’m interested in learn how to code
 - 🌱 I’m currently learning the Haxe languaje
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on for now no one
 - 📫 How to reach me ...
 
 <!---
